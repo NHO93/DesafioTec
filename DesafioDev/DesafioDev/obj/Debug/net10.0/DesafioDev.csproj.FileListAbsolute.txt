@@ -1,0 +1,14 @@
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/bin/Debug/net10.0/DesafioDev
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/bin/Debug/net10.0/DesafioDev.deps.json
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/bin/Debug/net10.0/DesafioDev.runtimeconfig.json
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/bin/Debug/net10.0/DesafioDev.dll
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/bin/Debug/net10.0/DesafioDev.pdb
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.GeneratedMSBuildEditorConfig.editorconfig
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.AssemblyInfoInputs.cache
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.AssemblyInfo.cs
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.csproj.CoreCompileInputs.cache
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.dll
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/refint/DesafioDev.dll
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.pdb
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/DesafioDev.genruntimeconfig.cache
+/home/edenilson-fabiano/RiderProjects/DesafioDev/DesafioDev/obj/Debug/net10.0/ref/DesafioDev.dll
